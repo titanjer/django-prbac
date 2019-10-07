@@ -22,7 +22,7 @@ def get_readme():
 
 
 setup(
-    name='django-prbac',
+    name='django_prbac',
     version=get_version(),
     description='Parameterized Role-Based Access Control for Django',
     long_description=get_readme(),
